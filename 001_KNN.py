@@ -49,3 +49,4 @@ class KNN:
 if __name__ == '__main__':
     k1 = KNN()
     print(k1.kNeighbour(5))
+
